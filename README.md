@@ -12,10 +12,10 @@ The connector can help transmit data between oneM2M and SensorThings API followi
 * Put library into `..WEB-INF\lib`
 * Put Java file `.class` into `..WEB-INF\classes`
 * Check xml tag in `web.xml`
-  * <servlet-name>
-  * <servlet-class>
-  * <servlet-name>
-  * <url-pattern>
+  * &lt;servlet-name&gt;
+  * &lt;servlet-class&gt;
+  * &lt;servlet-name&gt;
+  * &lt;url-pattern&gt;
 * Restart `Tomcat`
 ## Author
 [Brad Chen](https://github.com/BradChenPJ)
