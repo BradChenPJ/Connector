@@ -1,0 +1,11 @@
+<web-app>
+	<servlet>
+		<servlet-name>SensingServlet</servlet-name>
+		<servlet-class>net.sensing.SensingServlet</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+		<servlet-name>SensingServlet</servlet-name>
+		<url-pattern>/service</url-pattern>
+	</servlet-mapping>
+</web-app>
